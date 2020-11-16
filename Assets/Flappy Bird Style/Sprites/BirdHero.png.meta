@@ -11,15 +11,6 @@ TextureImporter:
   - first:
       213: 21300004
     second: BirdHero_2
-  - first:
-      213: 8051579698515443948
-    second: BirdHero_0
-  - first:
-      213: 5775143000185782248
-    second: BirdHero_1
-  - first:
-      213: -2643538357942516794
-    second: BirdHero_2
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,7 +32,6 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
-  vTOnly: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -76,7 +66,6 @@ TextureImporter:
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  ignorePngGamma: 0
   applyGammaDecoding: 1
   platformSettings:
   - serializedVersion: 3
@@ -98,19 +87,19 @@ TextureImporter:
       name: BirdHero_0
       rect:
         serializedVersion: 2
-        x: 8
-        y: 30
-        width: 113
-        height: 67
+        x: 0
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: ce082c2a315fcbf60800000000000000
-      internalID: 8051579698515443948
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
       vertices: []
       indices: 
       edges: []
@@ -119,19 +108,19 @@ TextureImporter:
       name: BirdHero_1
       rect:
         serializedVersion: 2
-        x: 131
-        y: 30
-        width: 118
-        height: 67
+        x: 128
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 8ef382de5fd652050800000000000000
-      internalID: 5775143000185782248
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
       vertices: []
       indices: 
       edges: []
@@ -140,19 +129,19 @@ TextureImporter:
       name: BirdHero_2
       rect:
         serializedVersion: 2
-        x: 264
-        y: 30
-        width: 113
-        height: 67
+        x: 256
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 6c387b89ed3405bd0800000000000000
-      internalID: -2643538357942516794
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
       vertices: []
       indices: 
       edges: []
@@ -160,7 +149,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 3a0b3a15f3533e6449ac3126da19b8ac
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
